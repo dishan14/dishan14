@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning ML algos
 - 💞️ I’m looking to collaborate on Data science Project
-- 📫 How to reach me at dishanshukla1410@gmail.com
+- 📫 Reach me at dishanshukla1410@gmail.com
 
 <!---
 dishan14/dishan14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
